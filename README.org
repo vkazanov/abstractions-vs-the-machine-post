@@ -1,1 +1,2 @@
-* c-is-a-low-level-language
+* C is a Low-level Langauge
+  My counter-arguments to the widely discussed David Chisnall's [[https://queue.acm.org/detail.cfm?id=3212479][article]] ([[https://habr.com/ru/company/badoo/blog/465429/][Russian]]). 
